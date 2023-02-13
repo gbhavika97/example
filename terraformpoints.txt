@@ -1,0 +1,7 @@
+•       Provision, configure, and maintain GCP and Azure cloud infrastructure defined as code using Terraform.
+•	Designed and implemented solutions for automating repetitive tasks using Terraform.
+        Setup and build GCP Infrastructure  using Terraform.
+•	Experience in building reusable Terraform configuration files to create network- VPC ,Subnets and Firewalls and Compute Engine , Storage Bucket in GCP.
+•	Created modules for reusing the scripts to create network(subnets) and compute engines in different regions.
+•	Created and used modules for compute engine configuration.
+•	Created terraform workspaces for multiple environments.
